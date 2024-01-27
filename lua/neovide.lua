@@ -1,5 +1,5 @@
 if vim.g.neovide then
-  vim.o.guifont = 'JetbrainsMono Nerd Font:h14:i'
+  vim.o.guifont = 'GoMono Nerd Font:h14:i'
   vim.g.neovide_scale_factor = 1.6
 
   -- dynamic scale
